@@ -1,6 +1,10 @@
 import java.util.Scanner;
-public class Lab10
-{
+public class Lab10_nwilloughby
+{ 
+/*Name: Nailah Willoughby
+Class: Louis, Henry
+Lab 10: nestled loops
+*/
     public static void main(String args[]) {
         nesty_MeNumbers();
 	powers(); 
