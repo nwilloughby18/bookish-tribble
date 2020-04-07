@@ -1,3 +1,8 @@
+/* Nailah Willoughby 
+4/7/2020
+CSC 1301 
+Homework 6 : Ascii_Tree
+*/
 public class Ascii_Tree {
     public static void main(String args[]) {
         for(int u=1; u<=10; u++){
