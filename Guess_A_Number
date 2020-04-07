@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class Guess_A_Number {
+    public static void main(String args[]) {
+		int maxNumber;
+		int secretNumber = (int)(Math.random()*maxNumber)+1;
+		    Scanner guess = new Scanner(System.in);
+				System.out.println("Guess the secret");
+				guessNum = magic.nextInt();
+		System.out.println("Secret number is " + secretNum);
+		System.out.println("Your guess is " + guessNum);
+		
+		if (guessNum < secretNum) {
+			System.out.println("Your guess is smaller than the secret number.");
+		}
+		else if (guessNum > secretNum) {
+			System.out.println("Your guess is larger than the secret number.");
+		}
+		else if (guessNum == secretNum) {
+			System.out.println("Your guess is correct. Congratulations!!");
+		}
+    }
+}
