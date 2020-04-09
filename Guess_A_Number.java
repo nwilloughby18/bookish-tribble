@@ -1,3 +1,9 @@
+/* Nailah Willoughby 
+4/7/2020
+CSC 1301 
+Homework 6 : Guess_A_Number
+Discussed with Mo Zaman
+*/
 import java.util.Scanner;
 public class Guess_A_Number {
     public static void main(String args[]) {
