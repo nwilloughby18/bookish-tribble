@@ -1,3 +1,8 @@
+/* Nailah Willoughby 
+4/7/2020
+CSC 1301 
+Homework 6 : Ascii_Tree
+*/
 import java.util.Scanner;
 public class Full_Xmas {
     public static void main(String args[]) {
@@ -13,3 +18,4 @@ public class Full_Xmas {
         }
       }
      }
+
